@@ -10,10 +10,6 @@ This project is a clone of the Nike home page created using ReactJs and Vite. It
 
 The project is deployed and can be accessed [here](put-your-link-here).
 
-## Features
-
-- [List any key features of your project, e.g., responsive design, interactive elements, etc.]
-
 ## Getting Started
 
 ### Prerequisites
