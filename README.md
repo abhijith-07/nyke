@@ -1,8 +1,7 @@
 Great! You've got a good start. Now, let's structure your README using your provided information:
 
 # Nike Home Page
-
-![Screen shot of home page](referrences/screenshot.png)
+![Screen shot of home page](https://github.com/abhijith-07/nyke/assets/67973073/5602bc79-d188-4a8c-bcf4-e8ab2b186f4b)
 
 This project is a clone of the Nike home page created using ReactJs and Vite. It aims to replicate the look and feel of the official Nike website.
 
